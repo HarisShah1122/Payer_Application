@@ -1,0 +1,4 @@
+{
+  "port": 4000,
+  "dbURI": "mysql://root:admin@127.0.0.1:3306/test_db"
+}
